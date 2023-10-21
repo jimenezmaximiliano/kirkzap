@@ -1,4 +1,4 @@
-package kirk_zap
+package kirkzap
 
 import (
 	"context"

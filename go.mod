@@ -1,4 +1,4 @@
-module github.com/jimenezmaximiliano/kirk-zap
+module github.com/jimenezmaximiliano/kirkzap
 
 go 1.21
 
